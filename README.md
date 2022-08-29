@@ -1,5 +1,5 @@
  # MachineLearning in Forex and Binary Options
- **If you find this useful, you can hire me to help you with your project on https://LucemAnb.com**
+ **If you find this useful, you can hire me to help you with your project on https://lucem.dev**
  
  ![machine learning](https://udemy-images.udemy.com/course/750x422/592338_1537_4.jpg)
 
